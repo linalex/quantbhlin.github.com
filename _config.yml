@@ -21,6 +21,10 @@ social:
     url: https://fi.linkedin.com/in/binghuanlin/en
   - title: bitbucket
     url: https://bitbucket.org/quantbhlin/
+  - title: SSRN
+    url: http://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2190200
+  - title: zhihu
+    url: http://www.zhihu.com/people/bh-lin-47
   # - title: stack-overflow
   #   url: http://stackoverflow.com/questions/tagged/jekyll
   # - title: bitbucket
